@@ -28,3 +28,14 @@ Snowfall - cm
 Seasons - Winter, Spring, Summer, Autumn  
 Holiday - Holiday/No holiday  
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)  
+
+
+# EDA Summary
+Dependent variable is positively skewed.  
+The number of bikes rented is on average higher during the rush hours.  
+Rented bike counts is higher during the summer and lowest during the winter.  
+Bike count is higher on working days than on non-working days.  
+Temperature has the highest correlation with the dependent variable.  
+
+#   ML Model
+

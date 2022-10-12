@@ -39,7 +39,10 @@ Temperature has the highest correlation with the dependent variable.
 
 #   ML Model
 
+![comp](https://user-images.githubusercontent.com/75332345/195401000-273a6987-fd29-4527-ace9-ce1a219534ba.png)  
 
+
+![ml table](https://user-images.githubusercontent.com/75332345/195401419-656ea366-8231-40dc-b9cc-56921bd00619.png)
 
 
 

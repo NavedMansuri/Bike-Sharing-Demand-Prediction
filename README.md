@@ -39,3 +39,26 @@ Temperature has the highest correlation with the dependent variable.
 
 #   ML Model
 
+
+
+
+
+
+
+
+
+
+
+
+#   Conclusions
+holiday or non-working days there is less bike demand.​
+
+high demand at morning 8am and evening 6pm.​
+
+clear visibility and low solar radiation is increasing bike demand.​
+
+Gradient boosting R2 score is 99% and random forest R2 score is 98%.​
+
+random forest and gradient boosting best model that can be used for the bike demand predication because performance matrix R2 and adjusted_R2 is higher.​
+
+so result is best machine learning model for bike ranted prediction we use gradient boosting or random forest model.
